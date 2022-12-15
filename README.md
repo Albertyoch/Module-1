@@ -28,7 +28,7 @@ Afterpay's co-founders, **Anthony Eisen** (47 years old) and **Nick Molner** (30
 
 **Business Model**
 
-![Business_Model](Business_Model.JPG)
+![Business_Model](Business_Model.jpg)
 1. Afterpay Unit Economics Model Example: Take a standard $1,000 loan. Charge 4% merchant fee ($40).
 This $1,000 can be turned 12x/year since Afterpay’s loans are on average 1 month periods. $40 x 12 =
 $480. Less Afterpay’s historical write-offs and other expenses of 2% at 12x or $240 = $240 profit. And
